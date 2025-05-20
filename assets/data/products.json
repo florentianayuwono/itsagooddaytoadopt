@@ -1,0 +1,34 @@
+[
+    {
+      "id": 1,
+      "title": "Animi Dolor Pariatur",
+      "description": "A beautiful decoration piece for your home.",
+      "images": ["./assets/images/product-1.jpg", "./assets/images/product-2.jpg"],
+      "category": ["supplies", "sports"],
+      "inStock": true
+    },
+    {
+      "id": 2,
+      "title": "Art Deco Home",
+      "description": "A stylish art deco piece for your kitchen.",
+      "images": ["./assets/images/product-2.jpg"],
+      "category": ["kitchenware"],
+      "inStock": false
+    },
+    {
+      "id": 3,
+      "title": "Artificial Potted Plant",
+      "description": "A lifelike artificial plant for your living space.",
+      "images": ["./assets/images/product-3.jpg"],
+      "category": ["decorations", "sports"],
+      "inStock": true
+    },
+    {
+      "id": 4,
+      "title": "Artificial Potted Plant",
+      "description": "A lifelike artificial plant for your living space.",
+      "images": ["./assets/images/product-3.jpg"],
+      "category": ["decorations", "sports"],
+      "inStock": false
+    }
+  ]

@@ -1,4 +1,6 @@
 'use strict';
+emailjs.init("o3iEaA1qkVkXXi_xS");
+
 
 let selectedProduct = null;
 let cart = JSON.parse(localStorage.getItem('cart')) || [];
@@ -99,11 +101,15 @@ document.getElementById('checkout-form').addEventListener('submit', (e) => {
   const email = document.getElementById('email').value;
   const cartDetails = cart.map((item) => `${item.title}`).join('\n');
 
-  emailjs.send('YOUR_SERVICE_ID', 'YOUR_TEMPLATE_ID', {
-    to_email: 'your-email@example.com',
-    from_email: email,
+  const email_templateid = "template_x4q7wds";
+  const email_serviceid = "service_cvh11n3";
+  const email_pubkey = "o3iEaA1qkVkXXi_xS";
+
+  emailjs.send(email_serviceid, email_templateid, {
+    from_name: email,
+    subject: email,
     message: cartDetails,
-  }).then(() => {
+  }, email_pubkey).then(() => {
     alert('Yay thank you for adopting! I will get back to you soon :)');
     cart = [];
     localStorage.removeItem('cart');
@@ -141,12 +147,11 @@ const renderProducts = (products) => {
     wrapper.innerHTML = `
       <div class="product-card-inner">
         <a href="#" class="card-banner img-holder has-before" style="--width: 300; --height: 300;">
-          ${actions}
-          <div class="carousel">${images}</div>
+        ${actions}
+        <div class="img-cover">${images}</div>
         </a>
         <div class="card-content">
           <h3 class="h3"><a href="#" class="card-title">${product.title}</a></h3>
-          <p>${product.description}</p>
         </div>
       </div>
     `;

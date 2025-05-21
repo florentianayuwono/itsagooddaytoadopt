@@ -107,7 +107,6 @@ document.getElementById('checkout-form').addEventListener('submit', (e) => {
 
   emailjs.send(email_serviceid, email_templateid, {
     from_name: email,
-    subject: email,
     message: cartDetails,
   }, email_pubkey).then(() => {
     alert('Yay thank you for adopting! I will get back to you soon :)');

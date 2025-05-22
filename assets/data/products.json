@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "Acrylic Color",
-    "description": "Add charm and functionality with this Acrylic Color.",
+    "description": "Almost like new, still have quite a lot of colors.",
     "images": [
       "./assets/images/acrylic-color.jpg"
     ],
@@ -14,7 +14,7 @@
   {
     "id": 2,
     "title": "Barbie",
-    "description": "Beautifully crafted, the Barbie adds flair to any space.",
+    "description": "Got it from the Asia Civilization Museum during the Barbie movie promo.",
     "images": [
       "./assets/images/barbie.jpg"
     ],
@@ -26,7 +26,7 @@
   {
     "id": 3,
     "title": "Basin",
-    "description": "The perfect blend of style and utility \u2013 Basin.",
+    "description": "Never really used it so almost like new!",
     "images": [
       "./assets/images/basin.jpg"
     ],
@@ -38,7 +38,7 @@
   {
     "id": 5,
     "title": "Broom",
-    "description": "An elegant solution to a common need \u2013 Broom.",
+    "description": "This broom lasted 4 years and still is very good.",
     "images": [
       "./assets/images/broom.jpg"
     ],
@@ -50,7 +50,7 @@
   {
     "id": 6,
     "title": "Brush",
-    "description": "Your daily companion: the Brush.",
+    "description": "All sizes for your creative needs.",
     "images": [
       "./assets/images/brush.jpg"
     ],
@@ -60,9 +60,45 @@
     "inStock": true
   },
   {
+    "id": 7,
+    "title": "Utensils",
+    "description": "Spoon nya cmn 1 tapi garpunya banyak.",
+    "images": [
+      "./assets/images/fork.jpg"
+    ],
+    "category": [
+      "kitchenware"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 8,
+    "title": "Blender",
+    "description": "Hanya pernah dipake untuk ngejuice.",
+    "images": [
+      "./assets/images/blender.jpg"
+    ],
+    "category": [
+      "kitchenware"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 9,
+    "title": "Chopper",
+    "description": "Hanya pernah dipake untuk perbawangan.",
+    "images": [
+      "./assets/images/chopper.jpg"
+    ],
+    "category": [
+      "kitchenware"
+    ],
+    "inStock": true
+  },
+  {
     "id": 10,
     "title": "Cable",
-    "description": "An elegant solution to a common need \u2013 Cable.",
+    "description": "Iya ini perkabelan lah ada usb-c to usb something, banyak pokoknya",
     "images": [
       "./assets/images/cable.jpg", "./assets/images/cable-2.jpg", "./assets/images/cable-3.jpg", "./assets/images/cable-4.jpg"
     ],
@@ -74,7 +110,7 @@
   {
     "id": 11,
     "title": "Chinese Book",
-    "description": "Enhance your routine with the reliable Chinese Book.",
+    "description": "I only used the last half for Chinese 4, if you are taking Chinese 3 then you can have this!!",
     "images": [
       "./assets/images/chinese-book.jpg"
     ],
@@ -85,8 +121,8 @@
   },
   {
     "id": 12,
-    "title": "Clipper",
-    "description": "Keep things organized and neat with the Clipper.",
+    "title": "Paper Clipper",
+    "description": "One of the remains of last presidential election in embassy.",
     "images": [
       "./assets/images/clipper.jpg"
     ],
@@ -97,8 +133,8 @@
   },
   {
     "id": 13,
-    "title": "Cloth",
-    "description": "Add charm and functionality with this Cloth.",
+    "title": "Reusable Cloth",
+    "description": "New, never used it cuz I bought several but only used one.",
     "images": [
       "./assets/images/cloth.jpg"
     ],
@@ -109,8 +145,8 @@
   },
   {
     "id": 14,
-    "title": "Coaster Abstract",
-    "description": "An elegant solution to a common need \u2013 Coaster Abstract.",
+    "title": "Coaster - Abstract",
+    "description": "This is like v high quality coaster (quite heavy), and I hand painted it with water dipping method.",
     "images": [
       "./assets/images/coaster-abstract.jpg"
     ],
@@ -122,8 +158,8 @@
   },
   {
     "id": 15,
-    "title": "Coaster Rose",
-    "description": "The perfect blend of style and utility \u2013 Coaster Rose.",
+    "title": "Coaster - Rose",
+    "description": "This is like v high quality coaster (quite heavy), and a very professional artist hand painted it with water dipping method.",
     "images": [
       "./assets/images/coaster-rose.jpg"
     ],
@@ -136,7 +172,7 @@
   {
     "id": 16,
     "title": "Container",
-    "description": "Enhance your routine with the reliable Container.",
+    "description": "One of the remains of last presidential election in embassy.",
     "images": [
       "./assets/images/container.jpg"
     ],
@@ -148,7 +184,7 @@
   {
     "id": 17,
     "title": "Correction Tape",
-    "description": "Smart and practical \u2013 Correction Tape does it all.",
+    "description": "Remains of last presidential election in embassy.",
     "images": [
       "./assets/images/correction-tape.jpg"
     ],
@@ -159,8 +195,8 @@
   },
   {
     "id": 18,
-    "title": "Crochet Flower",
-    "description": "The perfect blend of style and utility \u2013 Crochet Flower.",
+    "title": "Crochet Sunflower",
+    "description": "SO PRETTY HONESTLY HARD TO LET THIS GO.",
     "images": [
       "./assets/images/crochet-flower.jpg"
     ],
@@ -172,7 +208,7 @@
   {
     "id": 19,
     "title": "Crossbody Bag",
-    "description": "Your daily companion: the Crossbody Bag.",
+    "description": "New and never used.",
     "images": [
       "./assets/images/crossbody-bag.jpg"
     ],
@@ -184,7 +220,7 @@
   {
     "id": 20,
     "title": "Cup Holder",
-    "description": "Your daily companion: the Cup Holder.",
+    "description": "Ini dari Computing Welfare pack but never used it.",
     "images": [
       "./assets/images/cup-holder.jpg"
     ],
@@ -194,11 +230,23 @@
     "inStock": true
   },
   {
+    "id": 21,
+    "title": "Grater",
+    "description": "Still in a very good condition!",
+    "images": [
+      "./assets/images/grater.jpg"
+    ],
+    "category": [
+      "kitchenware"
+    ],
+    "inStock": true
+  },
+  {
     "id": 22,
     "title": "Curtain",
-    "description": "Smart and practical \u2013 Curtain does it all.",
+    "description": "If you live in PGP you can use this for your wardrobe biar ga berdebu.",
     "images": [
-      "./assets/images/curtain.jpg", "./assets/images/curtain-2.jpg"
+      "./assets/images/curtain.jpg", "./assets/images/curtain-2.jpg", "./assets/images/curtain-3.jpg"
     ],
     "category": [
       "supplies"
@@ -207,8 +255,8 @@
   },
   {
     "id": 23,
-    "title": "Cushion",
-    "description": "An elegant solution to a common need \u2013 Cushion.",
+    "title": "Chair Cushion",
+    "description": "Ok lah quite thick.",
     "images": [
       "./assets/images/cushion.jpg"
     ],
@@ -220,7 +268,7 @@
   {
     "id": 24,
     "title": "Disposable Mask",
-    "description": "An elegant solution to a common need \u2013 Disposable Mask.",
+    "description": "From zaman covid, right now can be used whenever you are deep cleaning your room.",
     "images": [
       "./assets/images/disposable-mask.jpg"
     ],
@@ -232,7 +280,7 @@
   {
     "id": 25,
     "title": "Duct Tape",
-    "description": "Beautifully crafted, the Duct Tape adds flair to any space.",
+    "description": "Perlakbanan, remains from the last presidential election in embassy.",
     "images": [
       "./assets/images/duct-tape.jpg"
     ],
@@ -243,8 +291,8 @@
   },
   {
     "id": 26,
-    "title": "Electric Fan 2",
-    "description": "Smart and practical \u2013 Electric Fan 2 does it all.",
+    "title": "Electric Fan - LightHouse",
+    "description": "LightHouse merch, never really an electric fan person so never used it.",
     "images": [
       "./assets/images/electric-fan-2.jpg"
     ],
@@ -255,8 +303,8 @@
   },
   {
     "id": 27,
-    "title": "Electric Fan 3",
-    "description": "The perfect blend of style and utility \u2013 Electric Fan 3.",
+    "title": "Electric Fan - Kakao Friends",
+    "description": "A gift, but never used it as well.",
     "images": [
       "./assets/images/electric-fan-3.jpg"
     ],
@@ -267,8 +315,8 @@
   },
   {
     "id": 28,
-    "title": "Electric Fan",
-    "description": "Beautifully crafted, the Electric Fan adds flair to any space.",
+    "title": "Electric Fan - with corong",
+    "description": "Maybe bisa dipake buat ngeringin rambut? idk sih.",
     "images": [
       "./assets/images/electric-fan.jpg"
     ],
@@ -280,7 +328,7 @@
   {
     "id": 29,
     "title": "Enter Button",
-    "description": "Keep things organized and neat with the Enter Button.",
+    "description": "More like a plushie that you can connect to your laptop and press enter with it if you want to press enter with style.",
     "images": [
       "./assets/images/enter-button.jpg"
     ],
@@ -292,7 +340,7 @@
   {
     "id": 30,
     "title": "Extension Cord",
-    "description": "Beautifully crafted, the Extension Cord adds flair to any space.",
+    "description": "Highly recommended biar u bs ngecas hape tiktokan, ngecas laptop listen to spotify, connect with monitor buat ngerjain tugas, all in one go (brainrot is real).",
     "images": [
       "./assets/images/extension-cord.jpg"
     ],
@@ -303,8 +351,8 @@
   },
   {
     "id": 31,
-    "title": "Financial Calcu",
-    "description": "An elegant solution to a common need \u2013 Financial Calcu.",
+    "title": "Financial Calculator",
+    "description": "Cuman pernah dipake buat perkalian doang, ga pernah dipake buat keuangan.",
     "images": [
       "./assets/images/financial-calcu.jpg"
     ],
@@ -316,7 +364,7 @@
   {
     "id": 32,
     "title": "Flashdisk",
-    "description": "Beautifully crafted, the Flashdisk adds flair to any space.",
+    "description": "Ayo siapa mau, buat storing your memory but jangan dipake buat ngehack ya.",
     "images": [
       "./assets/images/flashdisk.jpg"
     ],
@@ -326,9 +374,21 @@
     "inStock": true
   },
   {
+    "id": 33,
+    "title": "Kitchen Knife Set",
+    "description": "Still in a very good condition!",
+    "images": [
+      "./assets/images/kitchen-knife.jpg"
+    ],
+    "category": [
+      "kitchenware"
+    ],
+    "inStock": true
+  },
+  {
     "id": 34,
-    "title": "Food Container",
-    "description": "Smart and practical \u2013 Food Container does it all.",
+    "title": "Glass Container",
+    "description": "Very practical 3 compartments lagi.",
     "images": [
       "./assets/images/food-container-2.jpg", "./assets/images/food-container.jpg"
     ],
@@ -340,7 +400,7 @@
   {
     "id": 35,
     "title": "French Book",
-    "description": "Enhance your routine with the reliable French Book.",
+    "description": "Anyone wanna take French 1? This book is literally untouched and ga pernah keisi cuz I never did the exercises HAHA. Don't even have my name in it.",
     "images": [
       "./assets/images/french-book.jpg"
     ],
@@ -352,7 +412,7 @@
   {
     "id": 36,
     "title": "Hair Clip",
-    "description": "Your daily companion: the Hair Clip.",
+    "description": "Ini never used juga cuz I only use the hair rollers.",
     "images": [
       "./assets/images/hair-clip.jpg"
     ],
@@ -364,7 +424,7 @@
   {
     "id": 37,
     "title": "Hair Oil",
-    "description": "Smart and practical \u2013 Hair Oil does it all.",
+    "description": "Like 75% full.",
     "images": [
       "./assets/images/hair-oil.jpg"
     ],
@@ -376,7 +436,7 @@
   {
     "id": 38,
     "title": "Hanger",
-    "description": "Beautifully crafted, the Hanger adds flair to any space.",
+    "description": "Udh neatly packed ini tinggal diangkut. If you only want some can also.",
     "images": [
       "./assets/images/hanger.jpg"
     ],
@@ -388,7 +448,7 @@
   {
     "id": 39,
     "title": "Keychain",
-    "description": "Your daily companion: the Keychain.",
+    "description": "Dan masih banyak lagi. Mostly got it from events/gifts.",
     "images": [
       "./assets/images/bell.jpg", "./assets/images/keychain.jpg"
     ],
@@ -400,7 +460,7 @@
   {
     "id": 40,
     "title": "Kintsugi Bowl",
-    "description": "Enhance your routine with the reliable Kintsugi Bowl.",
+    "description": "Kintsugi is a Japanese art of repairing broken pottery by mending the cracks with lacquer, often dusted with gold, silver, or platinum. This technique not only repairs the pottery but also celebrates the object's history and imperfections, highlighting the idea that beauty can be found in brokenness. Anjas keren bgt kan.",
     "images": [
       "./assets/images/kintsugi-bowl.jpg"
     ],
@@ -412,7 +472,7 @@
   {
     "id": 41,
     "title": "Lighter",
-    "description": "Smart and practical \u2013 Lighter does it all.",
+    "description": "For lighting your friends' birthday candles, not for smoking.",
     "images": [
       "./assets/images/lighter.jpg"
     ],
@@ -424,7 +484,7 @@
   {
     "id": 42,
     "title": "Marker",
-    "description": "The Marker is a must-have for your daily life.",
+    "description": "Remains of last presidential election in embassy.",
     "images": [
       "./assets/images/marker.jpg"
     ],
@@ -436,7 +496,7 @@
   {
     "id": 43,
     "title": "Mesh Bag",
-    "description": "The perfect blend of style and utility \u2013 Mesh Bag.",
+    "description": "Never really used it so almost like new!",
     "images": [
       "./assets/images/mesh-bag.jpg"
     ],
@@ -448,7 +508,7 @@
   {
     "id": 44,
     "title": "Mop",
-    "description": "Enhance your routine with the reliable Mop.",
+    "description": "This mop has a water container and spray function.",
     "images": [
       "./assets/images/mop.jpg"
     ],
@@ -460,7 +520,7 @@
   {
     "id": 45,
     "title": "Mug",
-    "description": "An elegant solution to a common need \u2013 Mug.",
+    "description": "Ga pernah dipake, company merch.",
     "images": [
       "./assets/images/mug.jpg"
     ],
@@ -471,8 +531,8 @@
   },
   {
     "id": 46,
-    "title": "Music Box 1",
-    "description": "The Music Box 1 is a must-have for your daily life.",
+    "title": "Music Box - Canon in D",
+    "description": "Katanya ini quite high quality, the top can be decorated as well.",
     "images": [
       "./assets/images/music-box-1.jpg"
     ],
@@ -483,8 +543,8 @@
   },
   {
     "id": 47,
-    "title": "Music Box 2",
-    "description": "Smart and practical \u2013 Music Box 2 does it all.",
+    "title": "Music Box - A Dandelion's Promise, Jay Chou",
+    "description": "SO SAD TO LET THIS GO PLEASE TAKE CARE OF IT.",
     "images": [
       "./assets/images/music-box-2.jpg"
     ],
@@ -496,7 +556,7 @@
   {
     "id": 48,
     "title": "Notebooks",
-    "description": "Beautifully crafted, the Notebooks adds flair to any space.",
+    "description": "Berbagai varian available. There are also postcards.",
     "images": [
       "./assets/images/notebooks.jpg"
     ],
@@ -508,7 +568,7 @@
   {
     "id": 49,
     "title": "Organizer",
-    "description": "Enhance your routine with the reliable Organizer.",
+    "description": "Gambar hanyalah saran penyajian. Collection available from mid June onwards.",
     "images": [
       "./assets/images/organizer.jpg"
     ],
@@ -519,8 +579,8 @@
   },
   {
     "id": 50,
-    "title": "Painted Tote",
-    "description": "An elegant solution to a common need \u2013 Painted Tote.",
+    "title": "Painted Tote (Small)",
+    "description": "Was in my chess.com era, this is a small tote bag so maybe only fits a few things.",
     "images": [
       "./assets/images/painted-tote.jpg"
     ],
@@ -530,9 +590,21 @@
     "inStock": true
   },
   {
+    "id": 51,
+    "title": "Pasta Container",
+    "description": "Free if you wanna use it for something else :)",
+    "images": [
+      "./assets/images/pasta-container.jpg"
+    ],
+    "category": [
+      "kitchenware"
+    ],
+    "inStock": true
+  },
+  {
     "id": 52,
     "title": "Paper Bag",
-    "description": "Add charm and functionality with this Paper Bag.",
+    "description": "Idk what to call it but basically yeah bag for bunch of papers. Originally bought for the teachsg kids.",
     "images": [
       "./assets/images/paper-bag.jpg",  "./assets/images/paper-bag-2.jpg"
     ],
@@ -544,7 +616,7 @@
   {
     "id": 53,
     "title": "Paper Map",
-    "description": "Smart and practical \u2013 Paper Map does it all.",
+    "description": "Map for papers.",
     "images": [
       "./assets/images/paper-map.jpg"
     ],
@@ -556,7 +628,7 @@
   {
     "id": 54,
     "title": "Pencil Case",
-    "description": "Beautifully crafted, the Pencil Case adds flair to any space.",
+    "description": "New and never used.",
     "images": [
       "./assets/images/pencil-case.jpg"
     ],
@@ -568,7 +640,7 @@
   {
     "id": 55,
     "title": "Pens",
-    "description": "Add charm and functionality with this Pens.",
+    "description": "Remains of last presidential election in embassy.",
     "images": [
       "./assets/images/pens.jpg"
     ],
@@ -580,7 +652,7 @@
   {
     "id": 56,
     "title": "Photo Frame",
-    "description": "Smart and practical \u2013 Photo Frame does it all.",
+    "description": "New banget ini masih sealed bahkan.",
     "images": [
       "./assets/images/photo-frame.jpg"
     ],
@@ -590,9 +662,21 @@
     "inStock": true
   },
   {
+    "id": 57,
+    "title": "Salt Container",
+    "description": "Free if you wanna use it for something else :)",
+    "images": [
+      "./assets/images/salt-container.jpg"
+    ],
+    "category": [
+      "kitchenware"
+    ],
+    "inStock": true
+  },
+  {
     "id": 58,
     "title": "Plushie",
-    "description": "Keep things organized and neat with the Plushie.",
+    "description": "So cute and tidak dihantui.",
     "images": [
       "./assets/images/plushie.jpg",  "./assets/images/plushie-2.jpg"
     ],
@@ -604,7 +688,7 @@
   {
     "id": 59,
     "title": "Reusable Mask",
-    "description": "Enhance your routine with the reliable Reusable Mask.",
+    "description": "NUS merch covid period, never even opened it.",
     "images": [
       "./assets/images/reusable-mask.jpg"
     ],
@@ -616,7 +700,7 @@
   {
     "id": 60,
     "title": "Ruler",
-    "description": "The perfect blend of style and utility \u2013 Ruler.",
+    "description": "30cm.",
     "images": [
       "./assets/images/ruler.jpg"
     ],
@@ -627,8 +711,8 @@
   },
   {
     "id": 61,
-    "title": "Science Calcu",
-    "description": "Enhance your routine with the reliable Science Calcu.",
+    "title": "Scientific Calculator",
+    "description": "Still works but perlu dijemur dulu under the sun.",
     "images": [
       "./assets/images/science-calcu.jpg"
     ],
@@ -640,7 +724,7 @@
   {
     "id": 62,
     "title": "Scissors",
-    "description": "Add charm and functionality with this Scissors.",
+    "description": "Remains of last presidential election in embassy.",
     "images": [
       "./assets/images/scissor.jpg"
     ],
@@ -652,7 +736,7 @@
   {
     "id": 63,
     "title": "Shoe Bag",
-    "description": "The Shoe Bag is a must-have for your daily life.",
+    "description": "LightHouse high-quality merch!! Only used it for storing camera, never used it for shoes.",
     "images": [
       "./assets/images/shoe-bag.jpg"
     ],
@@ -664,7 +748,7 @@
   {
     "id": 65,
     "title": "Shoerack",
-    "description": "Add charm and functionality with this Shoerack.",
+    "description": "Can be disassembled and reassembled, so you can take it home easily.",
     "images": [
       "./assets/images/shoerack.jpg", "./assets/images/shoerack-2.jpg"
     ],
@@ -675,8 +759,8 @@
   },
   {
     "id": 66,
-    "title": "Sky Painting",
-    "description": "An elegant solution to a common need \u2013 Sky Painting.",
+    "title": "The Mountain Painting but Sky is the main character",
+    "description": "Ga bagus tapi kalo dari jauh ok kok, lumayan to add personality to your room. Ini hand painted in 15 minutes under pressure from the workshop organizer hahhaa.",
     "images": [
       "./assets/images/sky-painting.jpg"
     ],
@@ -687,8 +771,8 @@
   },
   {
     "id": 67,
-    "title": "Slide Clicker",
-    "description": "Keep things organized and neat with the Slide Clicker.",
+    "title": "Slide Clicker / Presenter",
+    "description": "Biar keren kalo mau presentasi.",
     "images": [
       "./assets/images/slide-clicker.jpg"
     ],
@@ -699,8 +783,8 @@
   },
   {
     "id": 68,
-    "title": "Small Ruler",
-    "description": "Add charm and functionality with this Small Ruler.",
+    "title": "Small Rulers",
+    "description": "New. Originally bought for the teachsg kids.",
     "images": [
       "./assets/images/small-ruler.jpg"
     ],
@@ -712,7 +796,7 @@
   {
     "id": 69,
     "title": "Socks",
-    "description": "Smart and practical \u2013 Socks does it all.",
+    "description": "New. Originally bought for the teachsg kids.",
     "images": [
       "./assets/images/socks.jpg"
     ],
@@ -723,8 +807,8 @@
   },
   {
     "id": 70,
-    "title": "Stabilo",
-    "description": "Keep things organized and neat with the Stabilo.",
+    "title": "Highlighter",
+    "description": "Remains of last presidential election in embassy.",
     "images": [
       "./assets/images/stabilo.jpg"
     ],
@@ -736,7 +820,7 @@
   {
     "id": 72,
     "title": "Steamer",
-    "description": "Add charm and functionality with this Steamer.",
+    "description": "BASICALLY NEW. I got it from my sister but never used it, only been used once by my friend.",
     "images": [
       "./assets/images/steamer.jpg", "./assets/images/steamer-2.jpg"
     ],
@@ -748,7 +832,7 @@
   {
     "id": 74,
     "title": "Sticky Note",
-    "description": "Smart and practical \u2013 Sticky Note does it all.",
+    "description": "New and never used.",
     "images": [
       "./assets/images/sticky-note.jpg", "./assets/images/sticky-note-2.jpg"
     ],
@@ -759,8 +843,8 @@
   },
   {
     "id": 75,
-    "title": "Tiger Painting",
-    "description": "An elegant solution to a common need \u2013 Tiger Painting.",
+    "title": "Tiger on Glass in Frame",
+    "description": "Ok kalo dilihat dari jauh, please adopt this, made with love.",
     "images": [
       "./assets/images/tiger-painting.jpg"
     ],
@@ -772,7 +856,7 @@
   {
     "id": 76,
     "title": "Toner",
-    "description": "Enhance your routine with the reliable Toner.",
+    "description": "Unused, got it from the nussu welfare pack.",
     "images": [
       "./assets/images/toner.jpg"
     ],
@@ -784,7 +868,7 @@
   {
     "id": 77,
     "title": "Tooth Brush",
-    "description": "The Tooth Brush is a must-have for your daily life.",
+    "description": "New!!",
     "images": [
       "./assets/images/tooth-brush.jpg"
     ],
@@ -796,7 +880,7 @@
   {
     "id": 79,
     "title": "Tote Bag",
-    "description": "Keep things organized and neat with the Tote Bag.",
+    "description": "This is like a tote bag that can be folded neatly. Recommended for carrying your groceries or other stuff.",
     "images": [
       "./assets/images/tote-bag.jpg", "./assets/images/tote-bag-2.jpg"
     ],
@@ -808,7 +892,7 @@
   {
     "id": 80,
     "title": "Towel",
-    "description": "The perfect blend of style and utility \u2013 Towel.",
+    "description": "Never used it, company merch.",
     "images": [
       "./assets/images/towel.jpg"
     ],
@@ -820,7 +904,7 @@
   {
     "id": 81,
     "title": "Uhu Stic",
-    "description": "Enhance your routine with the reliable Uhu Stic.",
+    "description": "Remains of last presidential election in embassy.",
     "images": [
       "./assets/images/uhu-stic.jpg"
     ],
@@ -832,7 +916,7 @@
   {
     "id": 82,
     "title": "Umbrella Big",
-    "description": "The perfect blend of style and utility \u2013 Umbrella Big.",
+    "description": "Never used ini lupa dapat darimana.",
     "images": [
       "./assets/images/umbrella-big.jpg"
     ],
@@ -844,7 +928,7 @@
   {
     "id": 83,
     "title": "Umbrella Small",
-    "description": "Keep things organized and neat with the Umbrella Small.",
+    "description": "Bisa dilipet, so cute.",
     "images": [
       "./assets/images/umbrella-small.jpg"
     ],
@@ -855,8 +939,8 @@
   },
   {
     "id": 84,
-    "title": "Utr Painting",
-    "description": "The perfect blend of style and utility \u2013 Utr Painting.",
+    "title": "Supposed to be UTR but Unfinished",
+    "description": "Iya begitulah, ini dipaint di UTown Green. Anggap aja white noise among your room decorations hehe.",
     "images": [
       "./assets/images/utr-painting.jpg"
     ],
@@ -868,7 +952,7 @@
   {
     "id": 85,
     "title": "Water Color",
-    "description": "Your daily companion: the Water Color.",
+    "description": "Almost like new, still have quite a lot of colors.",
     "images": [
       "./assets/images/water-color.jpg"
     ],
@@ -879,8 +963,8 @@
   },
   {
     "id": 86,
-    "title": "Yoga Mat 1",
-    "description": "The Yoga Mat 1 is a must-have for your daily life.",
+    "title": "Yoga Mat with Flowers",
+    "description": "Cuman pernah dipake sekali, sisanya dijadiin vase bunga.",
     "images": [
       "./assets/images/yoga-mat-1.jpg", "./assets/images/yoga-mat-2.jpg"
     ],

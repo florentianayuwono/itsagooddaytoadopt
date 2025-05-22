@@ -36,6 +36,18 @@
     "inStock": true
   },
   {
+    "id": 4,
+    "title": "Bolster",
+    "description": "Collection available nearing 20 June krn masih mau dipake, tidak include sarung ok. Usage history: 4 years, always disarung, sarung diganti dan dicuci 2 minggu sekali.",
+    "images": [
+      "./assets/images/bolster.jpg"
+    ],
+    "category": [
+      "supplies"
+    ],
+    "inStock": true
+  },
+  {
     "id": 5,
     "title": "Broom",
     "description": "This broom lasted 4 years and still is very good.",
@@ -81,7 +93,7 @@
     "category": [
       "kitchenware"
     ],
-    "inStock": true
+    "inStock": false
   },
   {
     "id": 9,
@@ -93,7 +105,7 @@
     "category": [
       "kitchenware"
     ],
-    "inStock": true
+    "inStock": false
   },
   {
     "id": 10,
@@ -179,7 +191,7 @@
     "category": [
       "supplies"
     ],
-    "inStock": true
+    "inStock": false
   },
   {
     "id": 17,
@@ -239,7 +251,7 @@
     "category": [
       "kitchenware"
     ],
-    "inStock": true
+    "inStock": false
   },
   {
     "id": 22,
@@ -347,7 +359,7 @@
     "category": [
       "others"
     ],
-    "inStock": true
+    "inStock": false
   },
   {
     "id": 31,
@@ -359,7 +371,7 @@
     "category": [
       "stationery"
     ],
-    "inStock": true
+    "inStock": false
   },
   {
     "id": 32,
@@ -383,7 +395,7 @@
     "category": [
       "kitchenware"
     ],
-    "inStock": true
+    "inStock": false
   },
   {
     "id": 34,
@@ -395,7 +407,7 @@
     "category": [
       "kitchenware"
     ],
-    "inStock": true
+    "inStock": false
   },
   {
     "id": 35,
@@ -407,7 +419,7 @@
     "category": [
       "stationery"
     ],
-    "inStock": true
+    "inStock": false
   },
   {
     "id": 36,
@@ -479,7 +491,7 @@
     "category": [
       "supplies"
     ],
-    "inStock": true
+    "inStock": false
   },
   {
     "id": 42,
@@ -515,7 +527,7 @@
     "category": [
       "supplies"
     ],
-    "inStock": true
+    "inStock": false
   },
   {
     "id": 45,
@@ -599,7 +611,7 @@
     "category": [
       "kitchenware"
     ],
-    "inStock": true
+    "inStock": false
   },
   {
     "id": 52,
@@ -611,7 +623,7 @@
     "category": [
       "stationery"
     ],
-    "inStock": true
+    "inStock": false
   },
   {
     "id": 53,
@@ -671,7 +683,7 @@
     "category": [
       "kitchenware"
     ],
-    "inStock": true
+    "inStock": false
   },
   {
     "id": 58,
@@ -719,7 +731,7 @@
     "category": [
       "stationery"
     ],
-    "inStock": true
+    "inStock": false
   },
   {
     "id": 62,
@@ -755,7 +767,7 @@
     "category": [
       "supplies"
     ],
-    "inStock": true
+    "inStock": false
   },
   {
     "id": 66,
@@ -779,7 +791,7 @@
     "category": [
       "stationery"
     ],
-    "inStock": true
+    "inStock": false
   },
   {
     "id": 68,
@@ -935,7 +947,7 @@
     "category": [
       "others"
     ],
-    "inStock": true
+    "inStock": false
   },
   {
     "id": 84,
@@ -970,6 +982,18 @@
     ],
     "category": [
       "sports", "decorations"
+    ],
+    "inStock": false
+  },
+  {
+    "id": 87,
+    "title": "Pillow",
+    "description": "Collection available nearing 20 June krn masih mau dipake, tidak include sarung ok. Usage history: 4 years, always disarung, sarung diganti dan dicuci 2 minggu sekali.",
+    "images": [
+      "./assets/images/pillow.jpg"
+    ],
+    "category": [
+      "supplies"
     ],
     "inStock": true
   }

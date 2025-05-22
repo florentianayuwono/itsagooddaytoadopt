@@ -1,34 +1,892 @@
 [
-    {
-      "id": 1,
-      "title": "Animi Dolor Pariatur",
-      "description": "A beautiful decoration piece for your home.",
-      "images": ["./assets/images/product-1.jpg", "./assets/images/product-2.jpg"],
-      "category": ["supplies", "sports"],
-      "inStock": true
-    },
-    {
-      "id": 2,
-      "title": "Art Deco Home",
-      "description": "A stylish art deco piece for your kitchen.",
-      "images": ["./assets/images/product-2.jpg"],
-      "category": ["kitchenware"],
-      "inStock": false
-    },
-    {
-      "id": 3,
-      "title": "Artificial Potted Plant",
-      "description": "A lifelike artificial plant for your living space.",
-      "images": ["./assets/images/product-3.jpg"],
-      "category": ["decorations", "sports"],
-      "inStock": true
-    },
-    {
-      "id": 4,
-      "title": "Artificial Potted Plant",
-      "description": "A lifelike artificial plant for your living space.",
-      "images": ["./assets/images/product-3.jpg"],
-      "category": ["decorations", "sports"],
-      "inStock": false
-    }
-  ]
+  {
+    "id": 1,
+    "title": "Acrylic Color",
+    "description": "Add charm and functionality with this Acrylic Color.",
+    "images": [
+      "./assets/images/acrylic-color.jpg"
+    ],
+    "category": [
+      "decorations"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 2,
+    "title": "Barbie",
+    "description": "Beautifully crafted, the Barbie adds flair to any space.",
+    "images": [
+      "./assets/images/barbie.jpg"
+    ],
+    "category": [
+      "decorations"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 3,
+    "title": "Basin",
+    "description": "The perfect blend of style and utility \u2013 Basin.",
+    "images": [
+      "./assets/images/basin.jpg"
+    ],
+    "category": [
+      "supplies"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 5,
+    "title": "Broom",
+    "description": "An elegant solution to a common need \u2013 Broom.",
+    "images": [
+      "./assets/images/broom.jpg"
+    ],
+    "category": [
+      "supplies"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 6,
+    "title": "Brush",
+    "description": "Your daily companion: the Brush.",
+    "images": [
+      "./assets/images/brush.jpg"
+    ],
+    "category": [
+      "decorations"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 10,
+    "title": "Cable",
+    "description": "An elegant solution to a common need \u2013 Cable.",
+    "images": [
+      "./assets/images/cable.jpg", "./assets/images/cable-2.jpg", "./assets/images/cable-3.jpg", "./assets/images/cable-4.jpg"
+    ],
+    "category": [
+      "stationery"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 11,
+    "title": "Chinese Book",
+    "description": "Enhance your routine with the reliable Chinese Book.",
+    "images": [
+      "./assets/images/chinese-book.jpg"
+    ],
+    "category": [
+      "stationery"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 12,
+    "title": "Clipper",
+    "description": "Keep things organized and neat with the Clipper.",
+    "images": [
+      "./assets/images/clipper.jpg"
+    ],
+    "category": [
+      "stationery"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 13,
+    "title": "Cloth",
+    "description": "Add charm and functionality with this Cloth.",
+    "images": [
+      "./assets/images/cloth.jpg"
+    ],
+    "category": [
+      "supplies"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 14,
+    "title": "Coaster Abstract",
+    "description": "An elegant solution to a common need \u2013 Coaster Abstract.",
+    "images": [
+      "./assets/images/coaster-abstract.jpg"
+    ],
+    "category": [
+      "decorations",
+      "kitchenware"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 15,
+    "title": "Coaster Rose",
+    "description": "The perfect blend of style and utility \u2013 Coaster Rose.",
+    "images": [
+      "./assets/images/coaster-rose.jpg"
+    ],
+    "category": [
+      "decorations",
+      "kitchenware"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 16,
+    "title": "Container",
+    "description": "Enhance your routine with the reliable Container.",
+    "images": [
+      "./assets/images/container.jpg"
+    ],
+    "category": [
+      "supplies"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 17,
+    "title": "Correction Tape",
+    "description": "Smart and practical \u2013 Correction Tape does it all.",
+    "images": [
+      "./assets/images/correction-tape.jpg"
+    ],
+    "category": [
+      "stationery"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 18,
+    "title": "Crochet Flower",
+    "description": "The perfect blend of style and utility \u2013 Crochet Flower.",
+    "images": [
+      "./assets/images/crochet-flower.jpg"
+    ],
+    "category": [
+      "decorations"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 19,
+    "title": "Crossbody Bag",
+    "description": "Your daily companion: the Crossbody Bag.",
+    "images": [
+      "./assets/images/crossbody-bag.jpg"
+    ],
+    "category": [
+      "others"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 20,
+    "title": "Cup Holder",
+    "description": "Your daily companion: the Cup Holder.",
+    "images": [
+      "./assets/images/cup-holder.jpg"
+    ],
+    "category": [
+      "kitchenware"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 22,
+    "title": "Curtain",
+    "description": "Smart and practical \u2013 Curtain does it all.",
+    "images": [
+      "./assets/images/curtain.jpg", "./assets/images/curtain-2.jpg"
+    ],
+    "category": [
+      "supplies"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 23,
+    "title": "Cushion",
+    "description": "An elegant solution to a common need \u2013 Cushion.",
+    "images": [
+      "./assets/images/cushion.jpg"
+    ],
+    "category": [
+      "supplies"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 24,
+    "title": "Disposable Mask",
+    "description": "An elegant solution to a common need \u2013 Disposable Mask.",
+    "images": [
+      "./assets/images/disposable-mask.jpg"
+    ],
+    "category": [
+      "supplies"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 25,
+    "title": "Duct Tape",
+    "description": "Beautifully crafted, the Duct Tape adds flair to any space.",
+    "images": [
+      "./assets/images/duct-tape.jpg"
+    ],
+    "category": [
+      "stationery"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 26,
+    "title": "Electric Fan 2",
+    "description": "Smart and practical \u2013 Electric Fan 2 does it all.",
+    "images": [
+      "./assets/images/electric-fan-2.jpg"
+    ],
+    "category": [
+      "supplies"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 27,
+    "title": "Electric Fan 3",
+    "description": "The perfect blend of style and utility \u2013 Electric Fan 3.",
+    "images": [
+      "./assets/images/electric-fan-3.jpg"
+    ],
+    "category": [
+      "supplies"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 28,
+    "title": "Electric Fan",
+    "description": "Beautifully crafted, the Electric Fan adds flair to any space.",
+    "images": [
+      "./assets/images/electric-fan.jpg"
+    ],
+    "category": [
+      "supplies"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 29,
+    "title": "Enter Button",
+    "description": "Keep things organized and neat with the Enter Button.",
+    "images": [
+      "./assets/images/enter-button.jpg"
+    ],
+    "category": [
+      "decorations"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 30,
+    "title": "Extension Cord",
+    "description": "Beautifully crafted, the Extension Cord adds flair to any space.",
+    "images": [
+      "./assets/images/extension-cord.jpg"
+    ],
+    "category": [
+      "others"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 31,
+    "title": "Financial Calcu",
+    "description": "An elegant solution to a common need \u2013 Financial Calcu.",
+    "images": [
+      "./assets/images/financial-calcu.jpg"
+    ],
+    "category": [
+      "stationery"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 32,
+    "title": "Flashdisk",
+    "description": "Beautifully crafted, the Flashdisk adds flair to any space.",
+    "images": [
+      "./assets/images/flashdisk.jpg"
+    ],
+    "category": [
+      "stationery"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 34,
+    "title": "Food Container",
+    "description": "Smart and practical \u2013 Food Container does it all.",
+    "images": [
+      "./assets/images/food-container-2.jpg", "./assets/images/food-container.jpg"
+    ],
+    "category": [
+      "kitchenware"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 35,
+    "title": "French Book",
+    "description": "Enhance your routine with the reliable French Book.",
+    "images": [
+      "./assets/images/french-book.jpg"
+    ],
+    "category": [
+      "stationery"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 36,
+    "title": "Hair Clip",
+    "description": "Your daily companion: the Hair Clip.",
+    "images": [
+      "./assets/images/hair-clip.jpg"
+    ],
+    "category": [
+      "others"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 37,
+    "title": "Hair Oil",
+    "description": "Smart and practical \u2013 Hair Oil does it all.",
+    "images": [
+      "./assets/images/hair-oil.jpg"
+    ],
+    "category": [
+      "others"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 38,
+    "title": "Hanger",
+    "description": "Beautifully crafted, the Hanger adds flair to any space.",
+    "images": [
+      "./assets/images/hanger.jpg"
+    ],
+    "category": [
+      "supplies"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 39,
+    "title": "Keychain",
+    "description": "Your daily companion: the Keychain.",
+    "images": [
+      "./assets/images/bell.jpg", "./assets/images/keychain.jpg"
+    ],
+    "category": [
+      "decorations"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 40,
+    "title": "Kintsugi Bowl",
+    "description": "Enhance your routine with the reliable Kintsugi Bowl.",
+    "images": [
+      "./assets/images/kintsugi-bowl.jpg"
+    ],
+    "category": [
+      "supplies", "decorations"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 41,
+    "title": "Lighter",
+    "description": "Smart and practical \u2013 Lighter does it all.",
+    "images": [
+      "./assets/images/lighter.jpg"
+    ],
+    "category": [
+      "supplies"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 42,
+    "title": "Marker",
+    "description": "The Marker is a must-have for your daily life.",
+    "images": [
+      "./assets/images/marker.jpg"
+    ],
+    "category": [
+      "stationery"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 43,
+    "title": "Mesh Bag",
+    "description": "The perfect blend of style and utility \u2013 Mesh Bag.",
+    "images": [
+      "./assets/images/mesh-bag.jpg"
+    ],
+    "category": [
+      "supplies"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 44,
+    "title": "Mop",
+    "description": "Enhance your routine with the reliable Mop.",
+    "images": [
+      "./assets/images/mop.jpg"
+    ],
+    "category": [
+      "supplies"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 45,
+    "title": "Mug",
+    "description": "An elegant solution to a common need \u2013 Mug.",
+    "images": [
+      "./assets/images/mug.jpg"
+    ],
+    "category": [
+      "kitchenware"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 46,
+    "title": "Music Box 1",
+    "description": "The Music Box 1 is a must-have for your daily life.",
+    "images": [
+      "./assets/images/music-box-1.jpg"
+    ],
+    "category": [
+      "decorations"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 47,
+    "title": "Music Box 2",
+    "description": "Smart and practical \u2013 Music Box 2 does it all.",
+    "images": [
+      "./assets/images/music-box-2.jpg"
+    ],
+    "category": [
+      "decorations"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 48,
+    "title": "Notebooks",
+    "description": "Beautifully crafted, the Notebooks adds flair to any space.",
+    "images": [
+      "./assets/images/notebooks.jpg"
+    ],
+    "category": [
+      "stationery"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 49,
+    "title": "Organizer",
+    "description": "Enhance your routine with the reliable Organizer.",
+    "images": [
+      "./assets/images/organizer.jpg"
+    ],
+    "category": [
+      "supplies"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 50,
+    "title": "Painted Tote",
+    "description": "An elegant solution to a common need \u2013 Painted Tote.",
+    "images": [
+      "./assets/images/painted-tote.jpg"
+    ],
+    "category": [
+      "decorations"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 52,
+    "title": "Paper Bag",
+    "description": "Add charm and functionality with this Paper Bag.",
+    "images": [
+      "./assets/images/paper-bag.jpg",  "./assets/images/paper-bag-2.jpg"
+    ],
+    "category": [
+      "stationery"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 53,
+    "title": "Paper Map",
+    "description": "Smart and practical \u2013 Paper Map does it all.",
+    "images": [
+      "./assets/images/paper-map.jpg"
+    ],
+    "category": [
+      "stationery"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 54,
+    "title": "Pencil Case",
+    "description": "Beautifully crafted, the Pencil Case adds flair to any space.",
+    "images": [
+      "./assets/images/pencil-case.jpg"
+    ],
+    "category": [
+      "stationery"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 55,
+    "title": "Pens",
+    "description": "Add charm and functionality with this Pens.",
+    "images": [
+      "./assets/images/pens.jpg"
+    ],
+    "category": [
+      "stationery"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 56,
+    "title": "Photo Frame",
+    "description": "Smart and practical \u2013 Photo Frame does it all.",
+    "images": [
+      "./assets/images/photo-frame.jpg"
+    ],
+    "category": [
+      "decorations"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 58,
+    "title": "Plushie",
+    "description": "Keep things organized and neat with the Plushie.",
+    "images": [
+      "./assets/images/plushie.jpg",  "./assets/images/plushie-2.jpg"
+    ],
+    "category": [
+      "decorations"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 59,
+    "title": "Reusable Mask",
+    "description": "Enhance your routine with the reliable Reusable Mask.",
+    "images": [
+      "./assets/images/reusable-mask.jpg"
+    ],
+    "category": [
+      "supplies"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 60,
+    "title": "Ruler",
+    "description": "The perfect blend of style and utility \u2013 Ruler.",
+    "images": [
+      "./assets/images/ruler.jpg"
+    ],
+    "category": [
+      "stationery"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 61,
+    "title": "Science Calcu",
+    "description": "Enhance your routine with the reliable Science Calcu.",
+    "images": [
+      "./assets/images/science-calcu.jpg"
+    ],
+    "category": [
+      "stationery"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 62,
+    "title": "Scissors",
+    "description": "Add charm and functionality with this Scissors.",
+    "images": [
+      "./assets/images/scissor.jpg"
+    ],
+    "category": [
+      "stationery"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 63,
+    "title": "Shoe Bag",
+    "description": "The Shoe Bag is a must-have for your daily life.",
+    "images": [
+      "./assets/images/shoe-bag.jpg"
+    ],
+    "category": [
+      "supplies"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 65,
+    "title": "Shoerack",
+    "description": "Add charm and functionality with this Shoerack.",
+    "images": [
+      "./assets/images/shoerack.jpg", "./assets/images/shoerack-2.jpg"
+    ],
+    "category": [
+      "supplies"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 66,
+    "title": "Sky Painting",
+    "description": "An elegant solution to a common need \u2013 Sky Painting.",
+    "images": [
+      "./assets/images/sky-painting.jpg"
+    ],
+    "category": [
+      "decorations"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 67,
+    "title": "Slide Clicker",
+    "description": "Keep things organized and neat with the Slide Clicker.",
+    "images": [
+      "./assets/images/slide-clicker.jpg"
+    ],
+    "category": [
+      "stationery"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 68,
+    "title": "Small Ruler",
+    "description": "Add charm and functionality with this Small Ruler.",
+    "images": [
+      "./assets/images/small-ruler.jpg"
+    ],
+    "category": [
+      "stationery"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 69,
+    "title": "Socks",
+    "description": "Smart and practical \u2013 Socks does it all.",
+    "images": [
+      "./assets/images/socks.jpg"
+    ],
+    "category": [
+      "others"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 70,
+    "title": "Stabilo",
+    "description": "Keep things organized and neat with the Stabilo.",
+    "images": [
+      "./assets/images/stabilo.jpg"
+    ],
+    "category": [
+      "stationery"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 72,
+    "title": "Steamer",
+    "description": "Add charm and functionality with this Steamer.",
+    "images": [
+      "./assets/images/steamer.jpg", "./assets/images/steamer-2.jpg"
+    ],
+    "category": [
+      "supplies"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 74,
+    "title": "Sticky Note",
+    "description": "Smart and practical \u2013 Sticky Note does it all.",
+    "images": [
+      "./assets/images/sticky-note.jpg", "./assets/images/sticky-note-2.jpg"
+    ],
+    "category": [
+      "stationery"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 75,
+    "title": "Tiger Painting",
+    "description": "An elegant solution to a common need \u2013 Tiger Painting.",
+    "images": [
+      "./assets/images/tiger-painting.jpg"
+    ],
+    "category": [
+      "decorations"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 76,
+    "title": "Toner",
+    "description": "Enhance your routine with the reliable Toner.",
+    "images": [
+      "./assets/images/toner.jpg"
+    ],
+    "category": [
+      "others"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 77,
+    "title": "Tooth Brush",
+    "description": "The Tooth Brush is a must-have for your daily life.",
+    "images": [
+      "./assets/images/tooth-brush.jpg"
+    ],
+    "category": [
+      "supplies"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 79,
+    "title": "Tote Bag",
+    "description": "Keep things organized and neat with the Tote Bag.",
+    "images": [
+      "./assets/images/tote-bag.jpg", "./assets/images/tote-bag-2.jpg"
+    ],
+    "category": [
+      "stationery"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 80,
+    "title": "Towel",
+    "description": "The perfect blend of style and utility \u2013 Towel.",
+    "images": [
+      "./assets/images/towel.jpg"
+    ],
+    "category": [
+      "supplies"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 81,
+    "title": "Uhu Stic",
+    "description": "Enhance your routine with the reliable Uhu Stic.",
+    "images": [
+      "./assets/images/uhu-stic.jpg"
+    ],
+    "category": [
+      "stationery"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 82,
+    "title": "Umbrella Big",
+    "description": "The perfect blend of style and utility \u2013 Umbrella Big.",
+    "images": [
+      "./assets/images/umbrella-big.jpg"
+    ],
+    "category": [
+      "others"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 83,
+    "title": "Umbrella Small",
+    "description": "Keep things organized and neat with the Umbrella Small.",
+    "images": [
+      "./assets/images/umbrella-small.jpg"
+    ],
+    "category": [
+      "others"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 84,
+    "title": "Utr Painting",
+    "description": "The perfect blend of style and utility \u2013 Utr Painting.",
+    "images": [
+      "./assets/images/utr-painting.jpg"
+    ],
+    "category": [
+      "decorations"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 85,
+    "title": "Water Color",
+    "description": "Your daily companion: the Water Color.",
+    "images": [
+      "./assets/images/water-color.jpg"
+    ],
+    "category": [
+      "decorations"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 86,
+    "title": "Yoga Mat 1",
+    "description": "The Yoga Mat 1 is a must-have for your daily life.",
+    "images": [
+      "./assets/images/yoga-mat-1.jpg", "./assets/images/yoga-mat-2.jpg"
+    ],
+    "category": [
+      "sports", "decorations"
+    ],
+    "inStock": true
+  }
+]

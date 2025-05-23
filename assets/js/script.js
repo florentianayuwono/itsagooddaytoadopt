@@ -109,7 +109,7 @@ document.getElementById('checkout-form').addEventListener('submit', (e) => {
     from_name: email,
     message: cartDetails,
   }, email_pubkey).then(() => {
-    alert('Yay thank you for adopting! I will get back to you soon :)');
+    alert('Yay thank you for adopting! Do not panic if you do not see the item you added immediately marked as out of stock, bc ini gue marknya manual after confirming the order ahahha. Rest assured I will get back to you soon :)');
     cart = [];
     localStorage.removeItem('cart');
     updateCartBadge();

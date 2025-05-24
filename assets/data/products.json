@@ -33,7 +33,8 @@
     "category": [
       "supplies"
     ],
-    "inStock": true
+    "inStock": false,
+    "newOwner": "sandrina"
   },
   {
     "id": 4,
@@ -132,7 +133,8 @@
     "category": [
       "stationery"
     ],
-    "inStock": true
+    "inStock": false,
+    "newOwner": "sandrina"
   },
   {
     "id": 12,
@@ -156,7 +158,8 @@
     "category": [
       "supplies"
     ],
-    "inStock": true
+    "inStock": true,
+    "newOwner": "sandrina"
   },
   {
     "id": 14,
@@ -207,7 +210,8 @@
     "category": [
       "stationery"
     ],
-    "inStock": true
+    "inStock": true,
+    "newOwner": "sandrina"
   },
   {
     "id": 18,
@@ -268,7 +272,8 @@
     "category": [
       "supplies"
     ],
-    "inStock": true
+    "inStock": false,
+    "newOwner": "sandrina"
   },
   {
     "id": 23,
@@ -914,7 +919,8 @@
     "category": [
       "supplies"
     ],
-    "inStock": true
+    "inStock": true,
+    "newOwner": "sandrina"
   },
   {
     "id": 79,

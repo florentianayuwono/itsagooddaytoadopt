@@ -1034,5 +1034,17 @@
     ],
     "inStock": false,
     "newOwner": "felix"
+  },
+  {
+    "id": 88,
+    "title": "Detergent (1L)",
+    "description": "Untuk mencuci baju.",
+    "images": [
+      "./assets/images/detergent.jpg"
+    ],
+    "category": [
+      "supplies"
+    ],
+    "inStock": true
   }
 ]

@@ -198,8 +198,8 @@
     "category": [
       "stationery"
     ],
-    "inStock": true,
-    "newOwner": "sandrina"
+    "inStock": false,
+    "newOwner": "sandrina,bri"
   },
   {
     "id": 18,
@@ -389,8 +389,8 @@
     "category": [
       "stationery"
     ],
-    "inStock": true,
-    "newOwner": "bryans"
+    "inStock": false,
+    "newOwner": "bryans,bri"
   },
   {
     "id": 33,

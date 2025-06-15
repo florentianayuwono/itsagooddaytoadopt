@@ -70,7 +70,8 @@
     "category": [
       "kitchenware"
     ],
-    "inStock": true
+    "inStock": false,
+    "newOwner": "jason"
   },
   {
     "id": 8,
@@ -351,7 +352,8 @@
     "category": [
       "decorations"
     ],
-    "inStock": true
+    "inStock": false,
+    "newOwner": "vanessa"
   },
   {
     "id": 30,
@@ -465,7 +467,8 @@
     "category": [
       "supplies"
     ],
-    "inStock": true
+    "inStock": true,
+    "newOwner": "jason"
   },
   {
     "id": 39,
@@ -564,7 +567,8 @@
     "category": [
       "decorations"
     ],
-    "inStock": true
+    "inStock": false,
+    "newOwner": "yehez"
   },
   {
     "id": 47,
@@ -576,7 +580,8 @@
     "category": [
       "decorations"
     ],
-    "inStock": true
+    "inStock": false,
+    "newOwner": "yehez"
   },
   {
     "id": 48,
@@ -589,7 +594,7 @@
       "stationery"
     ],
     "inStock": true,
-    "newOwner": "edmund,darrenft"
+    "newOwner": "edmund,darrenft,jason"
   },
   {
     "id": 49,
@@ -651,8 +656,8 @@
     "category": [
       "stationery"
     ],
-    "inStock": true,
-    "newOwner": "sher"
+    "inStock": false,
+    "newOwner": "sher,jason"
   },
   {
     "id": 54,
@@ -664,7 +669,8 @@
     "category": [
       "stationery"
     ],
-    "inStock": true
+    "inStock": false,
+    "jason"
   },
   {
     "id": 55,
@@ -714,7 +720,8 @@
     "category": [
       "decorations"
     ],
-    "inStock": true
+    "inStock": false,
+    "newOwner": "yehez"
   },
   {
     "id": 59,
